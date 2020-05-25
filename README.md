@@ -1,8 +1,7 @@
 # Medium-blogposts
-an overview of all developer's related blogpost I write on Medium
+An overview of all developer's related blogpost I write on Medium
 
 ## 2020
-### 2020/05 []()
 ### 2020/05 [Everyday routines to explain Algorithms & Flowcharts.](https://medium.com/@diana.vile/everyday-routines-to-explain-algorithms-flowcharts-1b17a4415023)
 ### 2020/05 [Developers’ Best Coding Practices](https://medium.com/@diana.vile/developers-best-coding-practices-48bd0aba14c5)
 ### 2020/05 [Main Coding skills](https://medium.com/@diana.vile/main-skills-to-grow-from-zero-to-hero-developer-6e7a787e937bf)
