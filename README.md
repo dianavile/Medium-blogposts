@@ -1,5 +1,5 @@
 # Medium-blogposts
-An overview of all developer's related blogpost I write on Medium
+An overview of all developer's related blogposts I write on Medium
 
 ## 2020
 ### 2020/05 [Web browser: behind the scenes.](https://medium.com/@diana.vile/web-browser-behind-the-scenes-806251dbb67d)
