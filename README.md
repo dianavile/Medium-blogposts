@@ -2,6 +2,8 @@
 An overview of all developer's related blogposts I write on Medium
 
 ## 2020
+### 2020/06 [HTML: the structure of websites.](https://medium.com/@diana.vile/html-the-structure-of-websites-a5ee03ef1bf0)
+
 ### 2020/05 [Web browser: behind the scenes.](https://medium.com/@diana.vile/web-browser-behind-the-scenes-806251dbb67d)
 ### 2020/05 [Web technologies: the basics](https://medium.com/@diana.vile/web-technologies-the-basics-7223106788c3)
 ### 2020/05 [Everyday routines to explain Algorithms & Flowcharts.](https://medium.com/@diana.vile/everyday-routines-to-explain-algorithms-flowcharts-1b17a4415023)
