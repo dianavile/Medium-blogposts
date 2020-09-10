@@ -3,7 +3,7 @@ An overview of all developer's related blogposts I write on Medium
 
 ## 2020
 
-### 2020/07 []()
+### 2020/09 []()
 
 ### 2020/06 [CSS: the style of websites](https://medium.com/@diana.vile/css-the-style-of-websites-4294dfddfd97)
 ### 2020/06 [HTML: the structure of websites.](https://medium.com/@diana.vile/html-the-structure-of-websites-a5ee03ef1bf0)
