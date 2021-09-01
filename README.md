@@ -2,7 +2,7 @@
 An overview of all developer's related blogposts I write on Medium
 
 ## 2021
-### 2021/09 [All good things comes in threes](https://diana-vile.medium.com/all-good-things-comes-in-threes-a66ff398aa6d)
+### 2021/09 [Why people fail to learn complex skills like coding](https://diana-vile.medium.com/why-people-fail-to-learn-complex-skills-like-coding-9fa027d45b9d)
 
 ### 2021/08 [Tips from a hiring manager: How developers can set themselves up for success](https://diana-vile.medium.com/tips-from-a-hiring-manager-4d890402d14f)
 ### 2021/08 [Bookreview: Clean Code on the rescue](https://diana-vile.medium.com/bookreview-clean-code-on-the-rescue-d7f2825e9074)
