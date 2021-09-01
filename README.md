@@ -1,8 +1,18 @@
 # Medium-blogposts
 An overview of all developer's related blogposts I write on Medium
 
-## 2020
+## 2021
+### 2021/09 [All good things comes in threes](https://diana-vile.medium.com/all-good-things-comes-in-threes-a66ff398aa6d)
 
+### 2021/08 [Tips from a hiring manager: How developers can set themselves up for success](https://diana-vile.medium.com/tips-from-a-hiring-manager-4d890402d14f)
+### 2021/08 [Bookreview: Clean Code on the rescue](https://diana-vile.medium.com/bookreview-clean-code-on-the-rescue-d7f2825e9074)
+### 2021/08 [Manage your focustime with the Pomodoro Technique: Learn to code more effectively with a tomato kitchen timer.](https://diana-vile.medium.com/manage-your-focustime-with-the-pomodoro-technique-learn-to-code-more-effectively-with-a-tomato-eec22209b846)
+### 2021/08 [Learning how to learn: Code Sherpas’ key to stay ahead in an ever changing tech world](https://diana-vile.medium.com/all-good-things-comes-in-threes-a66ff398aa6dhttps://diana-vile.medium.com/learning-how-to-learn-the-key-to-stay-ahead-in-an-ever-changing-tech-world-4719a391059d)
+
+### 2021/04 [Use the full power of frontend with the fullfrontendpower-challenge](https://diana-vile.medium.com/use-the-full-power-of-frontend-with-the-fullfrontendpower-challenge-9dfec02cf397)
+### 2021/04 [All good things comes in threes](https://diana-vile.medium.com/all-good-things-comes-in-threes-a66ff398aa6d)
+
+## 2020
 ### 2020/09 [Air signals and marine cables](https://medium.com/@diana.vile/air-signals-and-marine-cables-b83cf6f59c31)
 
 ### 2020/06 [CSS: the style of websites](https://medium.com/@diana.vile/css-the-style-of-websites-4294dfddfd97)
